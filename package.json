@@ -25,6 +25,6 @@
     "eslint": "6.2.2",
     "eslint-friendly-formatter": "4.0.1",
     "eslint-loader": "1.9.0",
-    "eslint-plugin-vue": "4.7.1"
+    "eslint-plugin-vue": "5.2.3"
   }
 }
