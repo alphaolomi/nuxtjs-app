@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-client",
+  "name": "@alphao/nuxtjs-auth",
   "version": "1.0.0",
-  "description": "Nuxt.js project",
-  "author": "KrunalLathiya <krunal@appdividend.com>",
+  "description": "A minimal Nuxt Application with Authentification",
+  "author": "Alpha Olomi <hello@alphaolomi.com>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -26,5 +26,15 @@
     "eslint-friendly-formatter": "4.0.1",
     "eslint-loader": "3.0.2",
     "eslint-plugin-vue": "5.2.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphaolomi/nuxtjs-auth.git"
+  },
+  "keywords": [],
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/alphaolomi/nuxtjs-auth/issues"
+  },
+  "homepage": "https://github.com/alphaolomi/nuxtjs-auth#readme"
 }
