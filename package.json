@@ -14,11 +14,11 @@
   },
   "dependencies": {
     "@nuxtjs/auth": "4.8.5",
-    "@nuxtjs/axios": "5.9.2",
+    "@nuxtjs/axios": "5.9.5",
     "bootstrap": "4.4.1",
     "jquery": "3.4.1",
     "nuxt": "2.11.0",
-    "popper.js": "1.16.0"
+    "popper.js": "1.16.1"
   },
   "devDependencies": {
     "babel-eslint": "10.0.3",
